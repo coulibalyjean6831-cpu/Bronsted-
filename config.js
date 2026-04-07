@@ -1,20 +1,3 @@
-{
-  "users": {
-    "22399944032": {
-      "sudoList": [
-        "22399934032@s.whatsapp.net",
-        "22399944032@s.whatsapp.net"
-      ],
-      "tagAudioPath": "database/DigiX.mp3",
-      "antilink": true,
-      "response": true,
-      "autoreact": false,
-      "prefix": ".",
-      "reaction": "⚡",
-      "welcome": true,
-      "record": true,
-      "type": true,
-      "publicMode": false
-    }
-  }
-}
+module.exports = {
+  Number: "22399944032" // remplacez par votre numéro WhatsApp sans mettre le signe +
+};
